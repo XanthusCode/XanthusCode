@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    ["Frontend",        78],
+    ["Backend",         72],
+    ["Databases",       70],
+    ["Cybersecurity",   55],
+    ["Linux / DevOps",  58],
+    ["Problem Solving", 82],
+    ["Self-Learning",   95]
+  ]
+}

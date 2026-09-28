@@ -1,0 +1,22 @@
+{
+  "user": "XanthusCode",
+  "name_lines": ["JOHAN", "CAMPOS"],
+  "full_name": "Johan Campos",
+  "tagline": "Software Developer · Full-Stack in progress",
+  "info": [
+    ["Subject",       "Johan Campos"],
+    ["Handle",        "@XanthusCode"],
+    ["Role",          "Software Developer"],
+    ["Origin",        "Colombia · UTC-5"],
+    ["Focus",         "Web Development · Cybersecurity"],
+    ["Core.Lang",     "Java · JavaScript · Python"],
+    ["Core.Frontend", "React · Vue · HTML · CSS · Bootstrap"],
+    ["Core.Backend",  "Spring Boot · REST APIs"],
+    ["Core.Database", "MySQL · PostgreSQL"],
+    ["ToolChain",     "Git · Linux · VS Code"],
+    ["Status",        "Learning + Building + Shipping"],
+    ["Grid.LinkedIn", "/in/johan-alexander-garcia"]
+  ],
+  "journey": { "label": "full-stack journey", "percent": 72 },
+  "prompt": "echo \"never stop learning\""
+}

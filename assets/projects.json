@@ -1,0 +1,6 @@
+[
+  { "repo": "ecommerce-Backend",   "description": "E-commerce REST backend built with Java & Spring Boot." },
+  { "repo": "Finanzas_App",        "description": "Personal finance tracker app built with Vue." },
+  { "repo": "airport",             "description": "Airport management system in Java with a relational database." },
+  { "repo": "Portfolio",           "description": "My personal developer portfolio website." }
+]

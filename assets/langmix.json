@@ -1,0 +1,11 @@
+{
+  "title": "Language Stack",
+  "axes": [
+    ["Java",        80],
+    ["JavaScript",  78],
+    ["Python",      62],
+    ["HTML / CSS",  85],
+    ["SQL",         70],
+    ["Vue / React", 60]
+  ]
+}
