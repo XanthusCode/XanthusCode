@@ -11,17 +11,15 @@
 
 <!-- NAME / TAGLINE — animated typing -->
 <a href="https://github.com/XanthusCode">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&duration=3200&pause=900&color=BD93F9&center=true&vCenter=true&width=880&height=60&lines=Hi+There!+%F0%9F%91%8B+I'm+Johan+Campos!;Software+Developer+%C2%B7+Full-Stack+in+progress+%E2%9A%A1;Java+%2F+Spring+%2F+React+%2F+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&duration=3200&pause=900&color=BD93F9&center=true&vCenter=true&width=880&height=60&repeat=true&lines=Hi+There!+%F0%9F%91%8B+I'm+Johan+Campos!" alt="typing banner" />
 </a>
 
 <br>
 
 <!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/johan-alexander-garcia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=XanthusCode&style=flat&color=bd93f9&label=profile+views" alt="profile views">
+<a href="https://johancampos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bd93f9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:garciacamposjohan18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -29,14 +27,13 @@
 
 ## 👋 This is me
 
-Hi, I'm **Johan**, a self-taught programmer broadcasting from Colombia 🇨🇴.
-Passionate about continuous learning and acquiring new knowledge and skills every day.
+I'm **Johan**, a self-taught developer from Colombia 🇨🇴, working toward full-stack.
 
-- 🌱 On a journey to become a **full-stack developer**, constantly learning and evolving.
-- ☕ Building backends with **Java & Spring Boot** and interfaces with **React & Vue**.
-- 🛡️ Eager to collaborate on **cybersecurity projects**. Let's create something groundbreaking together!
-- ⚡ I work tirelessly and never give up until I achieve results that **scale, perform efficiently** and push the boundaries of innovation.
-- 💬 Talk to me about **web development, security or learning to code** and you'll have my full attention.
+- ☕ I build backends with **Java & Spring Boot** — like [`ecommerce-Backend`](https://github.com/XanthusCode/ecommerce-Backend), a REST API for an online store.
+- 🖼️ On the frontend I use **Vue & React** — [`Finanzas_App`](https://github.com/XanthusCode/Finanzas_App) is a personal finance tracker in Vue.
+- 🌱 Currently learning **C# / .NET**.
+- 🛡️ Interested in **cybersecurity** and open to collaborating on security projects.
+- 💬 Ask me about **Java, Spring, web development or learning to code on your own**.
 
 <br>
 
@@ -44,7 +41,7 @@ Passionate about continuous learning and acquiring new knowledge and skills ever
 
 ## ⚒️ Languages · Frameworks · Tools ⚒️
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,react,vue,html,css,bootstrap,mysql,postgres,git,github,linux,vscode&perline=8" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,python,js,react,vue,html,css,bootstrap,mysql,postgres,git,github,linux,vscode&perline=8" alt="tech stack" />
 
 </div>
 
